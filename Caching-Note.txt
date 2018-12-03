@@ -1,0 +1,5 @@
+$ touch server.js
+$ mkdir public
+
+$ npm init -y
+$ npm install --save express cors
